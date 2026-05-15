@@ -381,7 +381,7 @@ pre {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
   width: min(1180px, 100%);
   margin: 0 auto;
@@ -396,8 +396,8 @@ article {
 
 .project-grid article {
   display: grid;
-  grid-template-columns: 0.8fr 1.2fr;
-  min-height: 24rem;
+  grid-template-columns: 1fr;
+  min-height: 31rem;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface);
@@ -413,6 +413,7 @@ article {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  min-height: 14.5rem;
   padding: 1.2rem;
   background:
     linear-gradient(135deg, color-mix(in srgb, var(--accent), transparent 22%), transparent),
@@ -429,11 +430,13 @@ article {
 
 .card-visual strong {
   color: rgba(255, 255, 255, 0.9);
-  font-size: clamp(4rem, 10vw, 7rem);
+  font-size: clamp(4rem, 8vw, 6.4rem);
   line-height: 0.85;
 }
 
 .card-copy {
+  display: flex;
+  flex-direction: column;
   padding: 1.25rem;
 }
 
@@ -457,6 +460,7 @@ article {
 .card-actions {
   flex-wrap: wrap;
   gap: 0.55rem;
+  margin-top: auto;
 }
 
 .skills {
@@ -594,6 +598,12 @@ kbd {
 
 .project-jumps a {
   color: var(--accent);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.5rem 0.7rem;
+  background: color-mix(in srgb, var(--surface-strong), transparent 20%);
+  font-size: 0.9rem;
+  text-decoration: none;
 }
 
 .reveal {
@@ -612,6 +622,16 @@ kbd {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@media (max-width: 1100px) {
+  .project-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .project-grid article {
+    min-height: 30rem;
   }
 }
 
@@ -697,6 +717,7 @@ kbd {
 
   .project-grid article {
     grid-template-columns: 1fr;
+    min-height: auto;
   }
 
   .card-visual {
