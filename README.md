@@ -16,6 +16,14 @@ npm run build
 npm run preview
 ```
 
+## Live Demo
+
+https://interactive-svelte-developer-portfoli.netlify.app/
+
+## Repository
+
+https://github.com/Chizaram-Julius/interactive-Svelte-developer-portfolio
+
 ## Tech Stack
 
 - Framework: SvelteKit
