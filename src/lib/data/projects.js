@@ -28,20 +28,6 @@ export const projects = [
     accent: '#f6d365'
   },
   {
-    id: 'whisperbox',
-    title: 'WhisperBox E2EE Client',
-    category: 'Security',
-    year: '2026',
-    description:
-      'A privacy-centered encrypted messaging client that presents complex security ideas through calm, approachable product UX.',
-    impact: 'Shows how careful interaction design can make end-to-end encryption feel understandable.',
-    technologies: ['Cryptography UX', 'React', 'Client State', 'Security Flows', 'Netlify'],
-    live: 'https://whisperbox-e2ee-client.netlify.app/',
-    github: 'https://github.com/Chizaram-Julius/whisperbox-e2ee-client',
-    video: 'https://www.loom.com/share/70d79e87b4bc4cbaaa7e2f79795581cc',
-    accent: '#9bbcff'
-  },
-  {
     id: 'pulseforge',
     title: 'PulseForge Realtime Dashboard',
     category: 'Realtime',
