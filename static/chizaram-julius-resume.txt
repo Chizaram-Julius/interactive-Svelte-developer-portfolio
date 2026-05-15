@@ -1,0 +1,56 @@
+MISS JULIUS CHIZARAM ONYINYECHUKWU
+Frontend Developer | Interactive UI Engineer
+
+Location: Lagos, Nigeria
+Email: juliuschizaramonyinyechukwu@gmail.com
+Phone: 07036086604
+LinkedIn: https://www.linkedin.com/in/chizaram-julius-608714181
+GitHub: https://github.com/chizaram-julius
+
+PROFESSIONAL SUMMARY
+Frontend Developer focused on building responsive, accessible, API-driven web applications with clean UI architecture and polished interaction design. Skilled in HTML, CSS, JavaScript, React, Next.js, SvelteKit, REST API integration, component-based development, responsive layouts, client-side validation, performance-conscious styling, and translating product ideas into smooth user experiences. I build frontend experiences that feel clear, responsive, accessible, and intentional, combining strong interface craft with disciplined delivery habits from real digital product environments.
+
+CORE SKILLS
+- Frontend: HTML5, CSS3, JavaScript ES6+, TypeScript fundamentals, React, Next.js, SvelteKit
+- UI Engineering: component composition, reusable components, responsive design, DOM logic, form validation, stateful interfaces
+- Styling: native CSS, CSS variables, modular CSS, animations, transitions, responsive typography, design systems
+- APIs: REST APIs, Fetch API, async JavaScript, error handling, loading states, API validation
+- Accessibility: semantic HTML, keyboard navigation, focus states, readable contrast, reduced-motion support
+- Performance: static generation, bundle awareness, optimized assets, lazy external interactions, smooth canvas/CSS motion
+- Tools: Git, GitHub, VS Code, Postman, Jira, browser DevTools, Netlify
+- Product Skills: Figma-to-code implementation, interaction design, cross-browser compatibility, agile collaboration
+
+PROFESSIONAL EXPERIENCE
+
+Frontend Developer, Freelance
+Remote | March 2025 - Present
+- Built and deployed responsive web applications using HTML, CSS, JavaScript, React, and modern frontend practices.
+- Developed API-driven applications with asynchronous JavaScript, validated inputs, error states, and dynamic UI updates.
+- Created interactive tools including calculators, clocks, generators, dashboards, productivity interfaces, and portfolio experiences.
+- Translated Figma designs into pixel-aware, production-ready landing pages optimized for responsiveness and usability.
+- Used Git and GitHub for version control, structured project workflows, and public portfolio delivery.
+- Implemented reusable components and clean client-side logic to improve maintainability and reduce duplication.
+
+IT Project Manager - Internet Banking
+UBA Group | Lagos, Nigeria | October 2023 - Present
+- Led delivery of digital banking initiatives supporting 32+ million users across 20 African markets.
+- Coordinated SIT, UAT, penetration testing, release readiness, and stakeholder sign-off for secure banking releases.
+- Partnered with developers and business teams to improve delivery timelines by 25% through structured planning and execution.
+- Managed API integration validation and release coordination, helping reduce post-release defects by 15%.
+- Oversaw Change Control Board approvals and release governance to support stable deployments with zero downtime targets.
+
+EDUCATION
+B.Sc. Pure and Industrial Chemistry
+Nnamdi Azikiwe University, Awka
+
+PORTFOLIO
+- Invoice Management App: responsive invoice workflow for creating, tracking, filtering, and managing payment states.
+  Live: https://invoicemgtapp.netlify.app/
+  GitHub: https://github.com/Chizaram-Julius/Invoice-Management-App
+- Habit Tracker PWA: mobile-first habit tracking experience focused on streaks, progress visibility, and repeat use.
+  Live: https://habit-tracker-pwa-idea.netlify.app/
+  GitHub: https://github.com/Chizaram-Julius/habit-tracker-pwa
+- WhisperBox E2EE Client: privacy-centered encrypted messaging interface with careful attention to security-focused UX.
+  Live: https://whisperbox-e2ee-client.netlify.app/
+  GitHub: https://github.com/Chizaram-Julius/whisperbox-e2ee-client
+For a full list of my projects, visit my GitHub: https://github.com/chizaram-julius
